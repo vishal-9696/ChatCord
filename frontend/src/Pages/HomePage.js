@@ -25,7 +25,7 @@ const HomePage = () => {
         borderRadius='lg'
         borderWidth="1px"
       >
-        <Text fontSize='4xl' fontFamily='Work sans'>Blab-B-Ery</Text>
+        <Text fontSize='4xl' fontFamily='Work sans'>ChatCord</Text>
       </Box>
       <Box
         bg='white'
